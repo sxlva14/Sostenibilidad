@@ -1,3 +1,6 @@
+# DIARIO SOSTENIBILIDAD
+## Salvador Rodríguez Fernández
+
 ### Día 1 - 19/09/2025
 En el primer día, Miguél nos explico un poco el funcionamiento de la asignatura. Quiere que reflexionemos un poco más. También, trabajaremos en grupo para elaborar una página web explicando un tema que todavía no hemos elegido.
 
