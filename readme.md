@@ -5,12 +5,6 @@
 
 ## 🎃 Octubre
 ### 🗓️ Día 5 - 17/10/2025
-vivimos solos?
-relaciones entre especies, ninguna especie vive aislada
-relaciones intraespecificas(misma especie), interespecificas(especies diferentes)
-ejemplo trufa negra, relacion ambos seres vivos salen beneficiados
-que hacemos nosotros, cooperamos o competimos?
-
 ¿Vivimos solos?, esa es la cuestión que hemos planteado hoy. Hemos empezado hablando sobre la relacion entre especias en nuestro planeta, no vivimos aislados ya que tenemos multitud de seres vivios por todos lados. Existen dos tipos de relaciones, las relaciones intraespecificas (se dan entre seres vivos de la misma especie) y las relaciones interespecificas (se dan entre seres vivos de especies diferentes). Para entender este tema un poco más, Miguél nos ha puesto un ejemplo de relación donde ambos seres vivos salen beneficiados. Este ejemplo es la recogida de trufas negras en un pueblo llamado Sarrión. Para acabar, nos ha planteado la siguiente pregunta, ¿los humanos cooperamos o competimos?. Sinceramente, yo creo que los humanos competimos entre nosotros, ya sea para triunfar en nuestros puestos de trabajo, sacar mejores notas para poder entrar antes que otros estudiantes, ser mejor que un compañero en un equipo de fútbol, etc. Existen multitud de ejemplos que me hacen pensar seriamente que competimos entre nosotros, aunque, no obstante, tambien existe la cooperación entre la gente, un ejemplo fue en la dana de valencia de 2024, donde las personas cooperaron entre sí. En los tiempos más complicados cooperamos entre nosotros, esa es nuestra virtud.
 
 ---
