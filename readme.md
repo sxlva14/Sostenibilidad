@@ -1,9 +1,16 @@
 # 🌍 DIARIO SOSTENIBILIDAD
 ## ✏️ Salvador Rodríguez Fernández
 
+Uso de la IA para optimizar el consumo energético y mejorar la eficiencia de los procesos, reduciendo la huella de carbono.
+
 ---
 
 ## 🎃 Octubre
+### 🗓️ Día 7 - 31/10/2025
+Hemos empezado dejando claro que La Tierra es un sistema finito y planteando lo siguiente, ¿cómo mantenemos el equilibrio?. Lo cierto es que tenemos recuros limitados, y además, un consumo que crece día tras día, dejando como desafio satisfacer nuestras necesidades actuales sin comprometer la de las futuras generaciones. Actualmente, tenemos un ciclo cerrado de la biosfera, ya que, todos los residuos que vertimos terminan convirtiendose en recursos, devido a que no existe la posibilidad de tirarlos fuera del planeta. Hemos seguido con otra reflexion, esta vez acerca del agua y de donde sale en nuestro municipio. Para terminar, hemos concluido con que la sostenibilidad exige cerrar los ciclos para mentener un equilibrio entre las tres dimensiones inseparables (ambiental, económica y social).
+
+---
+
 ### 🗓️ Día 6 - 24/10/2025
 Para empezar la clase, hemos indagado un poco en el formato que tendremos que seguir para elaborar nuestra página web, asi mismo hemos visto los criterios de evaluación que serviran para evaluarla. Posteriormente, hemos abierto un debate sobre dos estrategias la 'r' y la 'K'. La diferencia entre estas es muy sencilla, la estrategia 'K' se caracteriza por tener un crecimiento poblacional lento, es decir, son especies con una baja tasa de reproducción. Varios ejemplos son los elefantes o los árboles longevos. Por otro lado, la estrategía 'r' se caracteriza por todo lo contrario, tienen un muy alto indice de tasa de reproducción, como pueden ser los insectos o los peces. Para acabar hemos planteado la siguiente pregunta, ¿qué estrategia usamos los humanos?. Yo creo que la 'K' ya que invertimos mucho tiempo bajo control parental, y normalmente tenemos 2 o 3 hijos como mucho. Aunque, en algunos tramos de nuestra especia hemos usado la 'r', un ejemplo es que antigüamente las madres tenian muchos mas hijos.
 
