@@ -3,6 +3,10 @@
 
 Uso de la IA para optimizar el consumo energético y mejorar la eficiencia de los procesos, reduciendo la huella de carbono.
 
+## 🎭 Noviembre
+### 🗓️ Día 8 - 07/11/2025
+Hoy no ha habido clase, voy a ponerme a terminar mi punto del trabajo de sostenibilidad.
+
 ---
 
 ## 🎃 Octubre
