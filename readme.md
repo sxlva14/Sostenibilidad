@@ -4,6 +4,19 @@
 Uso de la IA para optimizar el consumo energético y mejorar la eficiencia de los procesos, reduciendo la huella de carbono.
 
 ## 🎭 Noviembre
+### 🗓️ Día 9 - 14/11/2025
+Hemos empezado poniendo el ejemplo de un teléfono, reflexionando en su peso (150g) y la cantidad de peso que se mueve para crear estos dispositivos (80kg). Pero, ¿cómo es posible este peso oculto?, lo cierto es que existen distintas fases para que cada persona pueda obtener un objeto, como el teléfono que hemos puesto de ejemplo. Después, hemos reflexionado un poco más sobre de donde sale toda la energía que utilizamos, existen bastantes, pero algunas que hemos nombrado son la solar, la , la hidroeléctrica, la nuclear o la geotermica. 
+
+Existen dos tipos de economias :
+- Linear: es cuando se extrae los materiales para crear un producto, se fabrica el producto, consumimos ese producto, y desechamos ese producto, generando residuos.
+- Circular: trata de reducir la fabricación de un producto, reutilizando esos mismos productos ya fabricados dandoles una segunda vida, y cuando se rompan reciclarlos.
+
+Por último hemos visto las fases de análisis del ciclo de vida (materias primas, fabricación, distribución, uso, gestión final). Migúel nos ha propuesto reflexionar junto a la IA sobre una de estas fases, he preguntado sobre como se consiguen los materiales y la energia que se utilizan para fabricar una cámara de video profesional. Como reflexión, puedo decir que, requiere numerosos materiales y bastante energia, como el silicio para el sensor, o el video óptica de las lentes. Además se utiliza la energía eléctrica para fabricar los componentes y ensamblarlos.
+
+![Análisis del ciclo de vida](image.png)
+
+---
+
 ### 🗓️ Día 8 - 07/11/2025
 Hoy no ha habido clase, voy a ponerme a terminar mi punto del trabajo de sostenibilidad.
 
