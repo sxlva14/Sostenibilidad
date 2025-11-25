@@ -4,6 +4,9 @@
 Uso de la IA para optimizar el consumo energético y mejorar la eficiencia de los procesos, reduciendo la huella de carbono.
 
 ## 🎭 Noviembre
+### 🗓️ Día 10 - 21/11/2025
+Hoy tampoco ha habido clase, asique voy a trabajar en algo que tenga pendiente.
+
 ### 🗓️ Día 9 - 14/11/2025
 Hemos empezado poniendo el ejemplo de un teléfono, reflexionando en su peso (150g) y la cantidad de peso que se mueve para crear estos dispositivos (80kg). Pero, ¿cómo es posible este peso oculto?, lo cierto es que existen distintas fases para que cada persona pueda obtener un objeto, como el teléfono que hemos puesto de ejemplo. Después, hemos reflexionado un poco más sobre de donde sale toda la energía que utilizamos, existen bastantes, pero algunas que hemos nombrado son la solar, la , la hidroeléctrica, la nuclear o la geotermica. 
 
