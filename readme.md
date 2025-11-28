@@ -4,8 +4,27 @@
 Uso de la IA para optimizar el consumo energético y mejorar la eficiencia de los procesos, reduciendo la huella de carbono.
 
 ## 🎭 Noviembre
+### 🗓️ Día 11 - 28/11/2025
+Hoy hemos comenzado analizando el viaje oculto de un producto, en concreto, sobre las diferencias entre economía linear vs circular.
+
+El modelo actual utilizado hoy en día es la economía lineal, se basa en flujo lineal que tiene un impacto insostenible debido a que genera una cantidad enorme de residuos que el reciclaje industrial no puede absorber.
+Por otro lado, el objetivo es cambiar a una economía circular, ya que posee difentes principios que son clave:
+- Ecodiseño (Diseño Sostenible)
+- Prioridad (Reutilización y Reparación)
+- Integración Ecosistémica
+
+Para acabar, Miguél nos ha propuesto dos preguntas:
+**¿Y a mí qué me cuentas?**
+Esta pregunta nos hace ver que la economía circular también nos afecta personalmente, ya que cada cosa que usamos y tiramos forma parte de un mismo ciclo que genera una gran cantidad de residuos, entender ese impacto nos ayuda a tomar decisiones más responsables.
+**¿Enfoque colectivo o individual?**
+Yo pienso que la economía circular necesita ambos enfoques. En cuanto al enfoque individual, las personas podemos reducir, reparar y reutilizar, pero se verá un cambio considerable si también hay un enfoque colectivo de empresas o grupos de personas para apoyar modelos más sostenibles.
+
+---
+
 ### 🗓️ Día 10 - 21/11/2025
-Hoy tampoco ha habido clase, asique voy a trabajar en algo que tenga pendiente.
+Hoy tampoco ha habido clase, asi que voy a trabajar en algo que tenga pendiente.
+
+---
 
 ### 🗓️ Día 9 - 14/11/2025
 Hemos empezado poniendo el ejemplo de un teléfono, reflexionando en su peso (150g) y la cantidad de peso que se mueve para crear estos dispositivos (80kg). Pero, ¿cómo es posible este peso oculto?, lo cierto es que existen distintas fases para que cada persona pueda obtener un objeto, como el teléfono que hemos puesto de ejemplo. Después, hemos reflexionado un poco más sobre de donde sale toda la energía que utilizamos, existen bastantes, pero algunas que hemos nombrado son la solar, la , la hidroeléctrica, la nuclear o la geotermica. 
