@@ -3,6 +3,30 @@
 
 Uso de la IA para optimizar el consumo energético y mejorar la eficiencia de los procesos, reduciendo la huella de carbono.
 
+## 🎄 Diciembre
+### 🗓️ Día 12 - 05/12/2025
+El tema de hoy trata sobre la huella ecológica y la huella de carbono, hemos empezado reflexionando sobre el término "ecológico" y su relación con los diversos temás vistos anteriormente.
+
+Comenzamos con la **huella ecológica**, hace referencia a la comparación entre lo que la Tierra puede regenerar y lo que los humanos consumimos, es como una cuenta bancaria ecológica. Su unidad de medida es 'Hag' (Hectáreas globales).
+
+Por otra parte, la **huella de carbono**, que tambíen forma parte de la huella ecológica, representa más del 60% del impacto total, en concreto es el total de gases de infecto invernadero. Su unidad de medida es CO2eq (Dióxido de carbono equivalente).
+
+Existen tres estrategias de mitigación:
+- Reducir
+- Eficiencia
+- Compensar
+
+#### Reflexión Personal
+Nos hemos metido a un medidor de huella de carbono, el resultado final que me ha dado ha sido que necesitariamos 3.1 tierras si todo el mundo viviera como yo. Además me indica que mi huella ecológica es de 5 Hag y mi huella de carbono es de 8.6 CO2eq.
+
+![Datos](/img/datosHuellaEcologica.png)
+
+Estos datos nos invitan a reflexionar acerca de este tema que nos tomamos un poco a broma pero es de vital importancia, si seguimos sin cuidar el planeta nos lo iremos cargando poco a poco, fastidiando así a las futuras generaciones.
+
+![Huella Ecológica](/img/huellaEcologica.png)
+
+---
+
 ## 🎭 Noviembre
 ### 🗓️ Día 11 - 28/11/2025
 Hoy hemos comenzado analizando el viaje oculto de un producto, en concreto, sobre las diferencias entre economía linear vs circular.
@@ -14,10 +38,14 @@ Por otro lado, el objetivo es cambiar a una economía circular, ya que posee dif
 - Integración Ecosistémica
 
 Para acabar, Miguél nos ha propuesto dos preguntas:
+
 **¿Y a mí qué me cuentas?**
 Esta pregunta nos hace ver que la economía circular también nos afecta personalmente, ya que cada cosa que usamos y tiramos forma parte de un mismo ciclo que genera una gran cantidad de residuos, entender ese impacto nos ayuda a tomar decisiones más responsables.
+
 **¿Enfoque colectivo o individual?**
 Yo pienso que la economía circular necesita ambos enfoques. En cuanto al enfoque individual, las personas podemos reducir, reparar y reutilizar, pero se verá un cambio considerable si también hay un enfoque colectivo de empresas o grupos de personas para apoyar modelos más sostenibles.
+
+![Economía Circular](/img/image-3.png)
 
 ---
 
@@ -35,7 +63,7 @@ Existen dos tipos de economias :
 
 Por último hemos visto las fases de análisis del ciclo de vida (materias primas, fabricación, distribución, uso, gestión final). Migúel nos ha propuesto reflexionar junto a la IA sobre una de estas fases, he preguntado sobre como se consiguen los materiales y la energia que se utilizan para fabricar una cámara de video profesional. Como reflexión, puedo decir que, requiere numerosos materiales y bastante energia, como el silicio para el sensor, o el video óptica de las lentes. Además se utiliza la energía eléctrica para fabricar los componentes y ensamblarlos.
 
-![Análisis del ciclo de vida](image.png)
+![Análisis del ciclo de vida](/img/image.png)
 
 ---
 
