@@ -4,6 +4,21 @@
 Uso de la IA para optimizar el consumo energético y mejorar la eficiencia de los procesos, reduciendo la huella de carbono.
 
 ## 🎄 Diciembre
+### 🗓️ Día 13 - 12/12/2025
+La clase de hoy irá enfocada al cambio climático, concretamente a el aumento de amenazas que encontramos en la actualidad. En primer lugar, hemos reflexionado sobre como repercute el cambio climático a nuestro entornos, Miguél ha puesto especial atención a como era Jumilla antes.
+
+En segundo lugar, hemos visto una evidencia en forma de gráfico sobre la aceleración del cambio climático en el planeta, lo que provoca distintos problemas a nivel global. El principal problema está muy claro, las emisiones de gases de efecto invernadero (energía, agricultura y uso del suelo, industria, residuos, etc). Todo esto tiene un impacto en la salud del ser humano, según la OMS habrán 250.000 muerte adicionales cada año entre 2030 y 2050 por culpa del cambio climático. Actualmente, existe una carrera por los recursos del futuro, algunos ejemplos son los conflictos por minerales estratégicos como el litio o el niquel o conclictos por nuevas rutas que surgen debido al cambio del clima.
+
+#### ¿Cuál es el principal emisor de C02?
+Yo creo que los principales emisores de C02 son los países que más producen, es decir China y Estados Unidos. Pienso que China sería el principal emisor ya que produce la mayor parte de bienes del planeta.
+
+#### ¿Cómo podriamos mitigar el cambio climático en nuestra profesión (informática)?
+Yo creo que podemos ayudar a reducir el cambio climático de distintas maneras, como por ejemplo programar de manera más eficiente, evitar gastar recursos de manera innecesaria o cuidar más nuestros equipos para no cambiar de hardware constantemente. Aunque sea poco, todo suma si todos somos un poco más cuidadosos.
+
+![Cambio Climático](/img/cambioClimatico.png)
+
+---
+
 ### 🗓️ Día 12 - 05/12/2025
 El tema de hoy trata sobre la huella ecológica y la huella de carbono, hemos empezado reflexionando sobre el término "ecológico" y su relación con los diversos temás vistos anteriormente.
 
@@ -19,11 +34,9 @@ Existen tres estrategias de mitigación:
 #### Reflexión Personal
 Nos hemos metido a un medidor de huella de carbono, el resultado final que me ha dado ha sido que necesitariamos 3.1 tierras si todo el mundo viviera como yo. Además me indica que mi huella ecológica es de 5 Hag y mi huella de carbono es de 8.6 CO2eq.
 
-![Datos](/img/datosHuellaEcologica.png)
-
 Estos datos nos invitan a reflexionar acerca de este tema que nos tomamos un poco a broma pero es de vital importancia, si seguimos sin cuidar el planeta nos lo iremos cargando poco a poco, fastidiando así a las futuras generaciones.
 
-![Huella Ecológica](/img/huellaEcologica.png)
+![Datos](/img/datosHuellaEcologica.png)
 
 ---
 
@@ -63,7 +76,7 @@ Existen dos tipos de economias :
 
 Por último hemos visto las fases de análisis del ciclo de vida (materias primas, fabricación, distribución, uso, gestión final). Migúel nos ha propuesto reflexionar junto a la IA sobre una de estas fases, he preguntado sobre como se consiguen los materiales y la energia que se utilizan para fabricar una cámara de video profesional. Como reflexión, puedo decir que, requiere numerosos materiales y bastante energia, como el silicio para el sensor, o el video óptica de las lentes. Además se utiliza la energía eléctrica para fabricar los componentes y ensamblarlos.
 
-![Análisis del ciclo de vida](/img/image.png)
+![Ciclo de vida](/img/cicloDeVida.png)
 
 ---
 
