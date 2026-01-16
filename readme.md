@@ -3,6 +3,43 @@
 
 Uso de la IA para optimizar el consumo energético y mejorar la eficiencia de los procesos, reduciendo la huella de carbono.
 
+## ❄️ Enero
+### 🗓️ Día 15 - 16/01/2026
+
+#### RESUMEN
+Hoy hemos hablado sobre la Agenda 2030 y los Objetivos de Desarrollo Sostenible (ODS). Primero de todo, hemos hablado y profundizado en algunos de los ejemplos de los ODS, por ejemplo, en el ODS número 4 hemos puesto de ejemplo nuestro módulo y cómo salio adelante.
+
+Posteriormente, hemos analizado el punto de partida y el punto de vista unificado de la sociedad, hemos llegado a la conclusión de que los ODS se agrupa en tres dimensiones interconectadas (Social, Ambiental y Económica). Para acabar hemos concluido con que los ODS, a mitad del trayecto, no están ni al 50% concluidos.
+
+#### EJEMPLOS
+Hay muchos Objetivos de Desarrollo Sostenible, por ejemplo:
+- Fin de la pobreza
+- Reducción de las desigualdades
+- Salud y bienestar
+- Agua limpia y saneamiento
+- Igualdad de género
+
+#### REFLEXIÓN PERSONAL
+Opino que la Agenda 2030 es muy dificil que se complete al 100% ya que, actualmente, no vamos ni por la mitad de ellos. Además, aunque todos queramos mejorar nuestro planeta, es muy dificil poner de acuerdo a todos los países ya que tenemos diferentes pensamientos y culturas.
+
+Argumentos en contra de los ODS
+- Inalcanzables: son demasiadas metas y muy difíciles de medir o cumplir.
+- Coste elevado: muchos países no tienen dinero suficiente para financiarlo.
+- Imposición: algunos países creen que vulneran su soberanía y sus costumbres.
+- Contradicciones: es muy difícil crecer económicamente sin dañar el medio ambiente.
+
+#### RESPUESTA: ¿Crees que se van a cumplir los ODS?
+Como ya he escrito antes, creo que es imposible que los ODS se completen para el 2030. Creo que esto va a ser así porque no todos los países tienen la misma capacidad financiera para hacer frente a tantos cambios, asi mismo, los países tienen distintas costumbres y algunos pueden sentirse vulnerados. Por último, creo que son demasiados objetivos para cumplir, hubiera estado bien que los hubieran planteado poco a poco y una vez se hayan realizado los primeros planteados.
+
+![ODS](/img/ODS.jpg)
+
+---
+
+### 🗓️ Día 14 - 09/01/2026
+No pude asistir a clase
+
+---
+
 ## 🎄 Diciembre
 ### 🗓️ Día 13 - 12/12/2025
 La clase de hoy irá enfocada al cambio climático, concretamente a el aumento de amenazas que encontramos en la actualidad. En primer lugar, hemos reflexionado sobre como repercute el cambio climático a nuestro entornos, Miguél ha puesto especial atención a como era Jumilla antes.
