@@ -4,6 +4,30 @@
 Uso de la IA para optimizar el consumo energético y mejorar la eficiencia de los procesos, reduciendo la huella de carbono.
 
 ## ❄️ Enero
+
+### 🗓️ Día 16 - 23/01/2026
+#### RESUMEN
+El dia de hoy hemos hablado sobre el Plan de Sostenibilidad Empresarial y su importancia en la sociedad, medio ambiente y economía. En primer lugar, hemos hablado sobre su anatomía, podemos definirlo como un documento estratégico que define una serie de acciones y sus métricas de seguimiento.
+
+Por otro lado, hemos visto los grupos de interés, es decir, todas las personas que incluyen en la empresa o son afectados por una actividad. Por ello, es importante tomar decisiones en función de distintos criterios (como los ASG) y tomar nota en función de los distintos indicadores (KPIs) para lograr una conclusión final.  
+
+#### EJEMPLOS
+Algunos ejemplos de acciones en empresa son:
+- Uso de energías renovables.
+- Reducción del consumo de agua y electricidad.
+- Planes de igualdad y mejora del clima laboral.
+- Uso de proveedores responsables.
+
+#### REFLEXIÓN PERSONAL
+Creo que los Planes de Sostenibilidad son necesarios, pero solo tienen sentido si se aplican de verdad y se miden con indicadores claros.
+
+#### RESPUESTA: ¿Greenwashing o Sostenibilidad Real?
+Creo que muchos Planes de Sostenibilidad Empresarial caen en greenwashing porque buscan mejorar su imagen. Diría que solo es sotenibilidad real si existen una serie de acciones reales con seguimiento y compromiso a largo plazo.
+
+![PlanSostenibilidad](/img/PlanSostenibilidad.jpg)
+
+---
+
 ### 🗓️ Día 15 - 16/01/2026
 
 #### RESUMEN
